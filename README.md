@@ -46,7 +46,7 @@ files as described below.
 Pull pre-built image from Docker Hub (recommended):
 
 ```bash
-docker pull docker.io/radiantearth/mmodel_nasa_rwanda_field_boundary_competition_bronze:1
+docker pull docker.io/radiantearth/model_nasa_rwanda_field_boundary_competition_bronze:1
 ```
 
 Or build image from source:

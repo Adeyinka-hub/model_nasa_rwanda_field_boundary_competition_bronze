@@ -11,9 +11,9 @@ This submission was mode on behalf of team `borderline` in the `NASA Harvest Fie
 
 This solution was a team effort by team borderline with members
 
- - Hoang Van Truong
- - Tien Dung Le
- - Michiel George Ferreira
+ - Hoang Van Truong (WhyNot)
+ - Tien Dung Le (Moto)
+ - Michiel George Ferreira (skaak)
 
 ## Environment
 
